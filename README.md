@@ -1,5 +1,6 @@
 # Interview
 
+**At interview, you will be assessed on your experience from your CV and personal statement and the listed Behaviours.** 
 
 ## Non Technical
 	
