@@ -148,4 +148,11 @@ Joining your organization as an Associate Application Operations Engineer will a
 - Incident Management
 
 
+## Technical questions
+- How do you identify system issues?
+- How do you troublehsoot?
+- What will you do when you encounter critical incident?
+- What you are proud of your career?
+- Tell me about a time when you prevented major incidents
+
 
