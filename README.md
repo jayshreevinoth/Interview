@@ -47,6 +47,20 @@ Supported senior administrators in deploying new systems and applications.
 - Problem-Solving: Excellent analytical and problem-solving skills with a detail-oriented approach.
 - Communication: Strong verbal and written communication skills, with experience in creating technical documentation.
 
+## Personal statement
+As a dedicated and highly skilled IT professional with a solid background in application support, system administration, and cloud services, I am eager to contribute to the success of your team as an Associate Application Operations Engineer (ITS Band 5/EO). With extensive experience in customer-focused roles, I excel at troubleshooting and resolving complex issues to ensure seamless operations and optimal performance of enterprise applications.
+
+My career thus far has equipped me with the ability to manage systems in mixed on-premise/cloud environments, utilizing tools such as Microsoft 365 to streamline tasks and improve efficiency. I have consistently demonstrated my capacity to support and maintain critical applications like PeopleSoft Software and Dynamics 365, ensuring they meet user needs and perform reliably.
+
+Adhering to ITIL best practices, I have developed a robust understanding of incident management, change control, and service delivery, which has enabled me to contribute to continuous improvement initiatives effectively. My proactive approach to problem-solving and attention to detail ensures that I can swiftly identify issues and implement solutions that minimize downtime and enhance user satisfaction.
+
+I am passionate about staying updated with the latest advancements in technology and continuously expanding my skill set to meet the evolving demands of the IT landscape. With my strong communication skills, I can effectively collaborate with cross-functional teams, stakeholders, and end-users to deliver high-quality support and drive successful project outcomes.
+
+Joining your organization as an Associate Application Operations Engineer will allow me to leverage my technical expertise, customer service experience, and commitment to excellence to support your IT operations and contribute to your continued success. I am excited about the opportunity to bring my skills and enthusiasm to your team and make a positive impact.
+
+
+> --------------------------------
+
 ## Non Technical
 	
 - Mission and Vision
