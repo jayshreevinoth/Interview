@@ -75,7 +75,11 @@
 - instance where you improve process
 - How do you onboard to a new job/ learn new tech
 - Whats your career goals.
+- Strengths and weakness
 
+## Behaviours
+- Changing and Improving
+- Working Together
 
 ## Keywords
 - Proactive Monitoring
