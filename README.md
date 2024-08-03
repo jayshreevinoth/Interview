@@ -71,12 +71,10 @@
 - How do you prioritize your work. 
 - instance where you prevented system failures. 
 	- I look for patterns. 
-- instance where you automated something
 - instance where you impacted the way your team work.
-- instance where you improvde process
-
-
-
+- instance where you improve process
+- How do you onboard to a new job/ learn new tech
+- Whats your career goals.
 
 
 ## Keywords
