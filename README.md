@@ -2,6 +2,51 @@
 
 **At interview, you will be assessed on your experience from your CV and personal statement and the listed Behaviours.** 
 
+## Employment History
+> Application Support Analyst
+
+01/2018 - 09/2018
+Provided customer-focused support for enterprise applications, ensuring system availability and performance.
+Troubleshooted and resolved application issues, applying fixes and patches as necessary.
+Managed systems in a mixed on-premise/cloud environment, utilizing Microsoft 365 for task completion.
+Collaborated with development teams to implement new features and resolve bugs.
+Maintain detailed documentation of application configurations, procedures, and incidents.
+Supported PeopleSoft Software, ensuring smooth operation and user satisfaction.
+Apply ITIL best practices to improve service delivery and incident management.
+
+> IT Support Technician
+
+06/2016 - 12/2017
+Responded to technical support requests from users, resolving hardware and software issues.
+Performed routine maintenance and updates on computer systems and applications.
+Conducted system backups and ensured data integrity.
+Assisted in network administration tasks, including configuring routers and managing user accounts.
+Provided training and support to end-users on various applications and systems.
+Supported PeopleSoft Software and Dynamics 365, resolving user issues and maintaining system performance.
+
+> Junior System Administrator
+
+06/2015 - 06/2016
+Monitored system performance and conducted regular maintenance to ensure optimal performance.
+Assisted in the configuration and management of servers and network infrastructure.
+Managed user accounts, permissions, and security settings.
+Documented system configurations and maintenance procedures.
+Supported senior administrators in deploying new systems and applications.
+
+## Previous skills and experience
+
+- Application Operations: Extensive experience in customer-focused application support and troubleshooting.
+- System Administration: Proficient in managing Windows and Linux servers, ensuring system stability and performance.
+- Cloud Services: Experienced in managing systems in a mixed on-premise/cloud environment, including Microsoft 365.
+- Technical Support: Strong background in providing technical support and resolving hardware and software issues.
+- PeopleSoft Software: Skilled in supporting PeopleSoft applications, ensuring seamless operation.
+- Dynamics 365: Knowledgeable in Dynamics 365, providing support and maintenance.
+- ITIL Best Practices: Understanding and application of ITIL best practices for improved service delivery.
+- Scripting and Automation: Knowledge of scripting languages such as PowerShell, Bash, and Python for task automation.
+- Networking: Understanding of network configuration and administration, including TCP/IP, DNS, and VPN.
+- Problem-Solving: Excellent analytical and problem-solving skills with a detail-oriented approach.
+- Communication: Strong verbal and written communication skills, with experience in creating technical documentation.
+
 ## Non Technical
 	
 - Mission and Vision
