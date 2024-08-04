@@ -158,7 +158,7 @@ Joining your organization as an Associate Application Operations Engineer will a
 
 ## HSE
 
- - serviceNow
+ - serviceNow (cloud-based workflow automation platform)
 - microsoft365
  - dynamics 365
 - peopleSoft
