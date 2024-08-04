@@ -158,18 +158,18 @@ Joining your organization as an Associate Application Operations Engineer will a
 
 ## HSE
 
-serviceNow
-microsoft365
-dynamics 365
-peopleSoft
-on premise/cloud environment
-ITIL best practices
+ - serviceNow
+- microsoft365
+ - dynamics 365
+- peopleSoft
+- on premise/cloud environment
+- ITIL best practices
 
 # CV
 
-Windows and Linux servers
-scripting languages such as PowerShell, Bash, and Python for task automation
-network configuration and administration, including TCP/IP, DNS, and VPN.
+- Windows and Linux servers
+- scripting languages such as PowerShell, Bash, and Python for task automation
+- network configuration and administration, including TCP/IP, DNS, and VPN.
 
 serviceNow
 microsoft365
