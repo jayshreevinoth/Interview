@@ -178,13 +178,25 @@ peopleSoft
 on premise/cloud environment
 ITIL best practices
 
+## 10 sample Civil Service interview questions and answers
+
+1. Why have you applied to this role?
+2. What skills and experience can you bring to the role?
+3. Can you work well under pressure and manage several tasks at once?
+4. Tell me about a time when you had to work with a challenging colleague.
+5. Tell me about a time when you demonstrated consideration towards equality in the workplace.
+6. Tell me about a time when you implemented a change.
+7. Tell me about a time when you have successfully dealt with a conflict of priorities.
+8.  Are you skilled at learning new things quickly?
+9.  What are your biggest weaknesses?
+10.  Do you have any questions for me?
 
 ## Introduction
 I am jayashree living in london. I have 3 years 5 months of experience in operations.
 My previous employer is Infoview technologies in India. It is a wholly owned subsidiary of Works Applications, Japan. Infoview provides design, development, implementation and support for Works Applications ERP suites (Human Resource, Accounting and Supply Chain)
 In my previous role, my hands-on experience with designing and improving operational workflows has enabled me to significantly reduce costs and enhance efficiency for my previous employer.
+I excel at troubleshooting and resolving complex issues to ensure seamless operations and optimal performance of enterprise applications.
 Provided customer-focused support for enterprise applications 
-ensuring system availability and performance
-Troubleshooted and resolved application issues, applying fixes and patches as necessary
+
 ITIL best practices to improve service delivery and incident management.
-Performed routine maintenance and updates on computer systems and applications
+Performed routine maintenance and updates on computer systems and applications ensuring system availability and performance
