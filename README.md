@@ -158,7 +158,8 @@ Joining your organization as an Associate Application Operations Engineer will a
 
 ## HSE
 
- - serviceNow (cloud-based workflow automation platform)
+ - serviceNow (cloud-based workflow automation platform )
+     ServiceNow can be used to automate workflows, manage incidents, requests, and changes, and provide real-time visibility into IT operations.
 - microsoft365
  - dynamics 365
 - peopleSoft
