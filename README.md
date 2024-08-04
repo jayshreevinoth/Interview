@@ -141,6 +141,13 @@ Joining your organization as an Associate Application Operations Engineer will a
 - Changing and Improving
 - Working Together
 
+Tips for Answering Behavioral Questions:
+Use the STAR Method: Structure your answers using the Situation, Task, Action, and Result framework.
+Be Specific: Provide concrete examples and focus on your role and contributions.
+Highlight Team Dynamics: Emphasize your ability to work collaboratively, communicate effectively, and resolve conflicts.
+Showcase Adaptability: Demonstrate how you adapt to different team environments and dynamics.
+Reflect on Learnings: Highlight what you learned from each experience and how it improved your teamwork skills.
+
 ## Keywords
 - Proactive Monitoring
 - Collaboration and Communication
@@ -178,6 +185,22 @@ dynamics 365
 peopleSoft
 on premise/cloud environment
 ITIL best practices
+
+# technical terms
+1. load balancer
+2. server
+3. uptime
+4. TCP/IP
+5. DNS
+6. VPN
+7. shell, bash
+8. routing
+9. health check
+10. metrics
+11. log levels
+12. cloud (kubernetes docker)
+13. all configurations
+14. 
 
 ## 10 sample Civil Service interview questions and answers
 
